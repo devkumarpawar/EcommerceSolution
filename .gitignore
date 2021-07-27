@@ -1,0 +1,6 @@
+node_modules
+Template
+.env
+PROCFILE
+.babelrc
+.vscode/settings.json
